@@ -1,6 +1,6 @@
 <template>
   <div class="pos">
-    Hello KFCPos Demo.
+    Hello KFCPos Demos.
   </div>
 </template>
 
