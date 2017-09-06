@@ -23,7 +23,7 @@
             </li>
             <li>
                 <i class="icon iconfont icon-shezhi"></i>
-                <div>统计</div>
+                <div>设置</div>
             </li>
         </ul>
     </div> 
